@@ -1,7 +1,5 @@
 # Face_Recognition
 
-# Face Detection 
-
 ## Overview:
 
 This repository contains a face recognition model built using deep learning techniques. The model is trained to recognize faces in images and video streams. This README file provides information on how to use the model, its requirements, and other relevant details.
